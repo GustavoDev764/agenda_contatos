@@ -11,7 +11,7 @@ Exemplo:
 - Cria contato
 - Deleta contato
 - Atualizar contato
-- Adiciona fotos docontato
+- Adiciona fotos do contato
 - Ordena contato
 
 ## Documentação online do Flutter
